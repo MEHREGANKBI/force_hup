@@ -34,7 +34,9 @@ If your command has errors, you'll be notified
 
 ## Uninstallation
 1- Using "cd", change directory to the project's root directory
+
 2- Run the following command: "make uninstall"
+
 3- The binary will be removed and you can now remove the source code as well
 
 
